@@ -1,0 +1,183 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Everything is IoT.",
+     
+      "thumbnail_url": "https://i.postimg.cc/s2w3jjC7/cc1.jpg",
+      "image_url": "https://i.postimg.cc/s2w3jjC7/cc1.jpg",
+      "details": "The Internet of things (IoT) describes physical objects (or groups of such objects) with sensors, processing ability, software, and other technologies that connect and exchange data with other devices and systems over the Internet or other communications networks."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Neural Network",
+      
+      "thumbnail_url": "https://i.postimg.cc/qvKhQZ6W/neu2.jpg",
+      "image_url": "https://i.postimg.cc/qvKhQZ6W/neu2.jpg",
+      "details": "A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. In this sense, neural networks refer to systems of neurons, either organic or artificial in nature."
+    },
+
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "rating": { "number": 4.8, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "Cloud Computing World",
+
+      "thumbnail_url": "https://i.postimg.cc/zGwxR3Bb/cc2.jpg",
+      "image_url": "https://i.postimg.cc/zGwxR3Bb/cc2.jpg",
+      "details": "Cloud computing is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user. Large clouds often have functions distributed over multiple locations, each location being a data center. Cloud computing relies on sharing of resources to achieve coherence and typically uses a pay-as-you-go model, which can help in reducing capital expenses but may also lead to unexpected operating expenses for users."
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71012",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "02",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "Big Data Analytics",
+     
+      "thumbnail_url": "https://i.postimg.cc/9fHg0Kjp/bd1.jpg",
+      "image_url": "https://i.postimg.cc/9fHg0Kjp/bd1.jpg",
+      "details": "Big data analytics is the use of advanced analytic techniques against very large, diverse big data sets that include structured, semi-structured and unstructured data, from different sources, and in different sizes from terabytes to zettabytes."
+    },
+
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 980,
+      "title": "Artificial Intelligence",
+      
+      "thumbnail_url": "https://i.postimg.cc/NM2jfK8S/neu3.jpg",
+      "image_url": "https://i.postimg.cc/NM2jfK8S/neu3.jpg",
+      "details": "Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals and humans. AI research has been defined as the field of study of intelligent agents, which refers to any system that perceives its environment and takes actions that maximize its chance of achieving its goals."
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 980,
+      "title": "Adventage of Fog Computing",
+      
+      "thumbnail_url": "https://i.postimg.cc/kgXdGrMm/cc3.jpg",
+      "image_url": "https://i.postimg.cc/kgXdGrMm/cc3.jpg",
+      "details": "Fog computing is a decentralized computing infrastructure in which data, compute, storage and applications are located somewhere between the data source and the cloud. Like edge computing, fog computing brings the advantages and power of the cloud closer to where data is created and acted upon. Many people use the terms fog computing and edge computing interchangeably because both involve bringing intelligence and processing closer to where the data is created. This is often done to improve efficiency, though it might also be done for security and compliance reasons."
+    },
+
+    {
+      "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": null,
+      "title": "Machine Learning",
+      
+      "thumbnail_url": "https://i.postimg.cc/W4tyQgTR/bd2.jpg",
+      "image_url": "https://i.postimg.cc/W4tyQgTR/bd2.jpg",
+      "details": "Machine learning (ML) is a field of inquiry devoted to understanding and building methods that 'learn', that is, methods that leverage data to improve performance on some set of tasks. It is seen as a part of artificial intelligence. Machine learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do so. Machine learning algorithms are used in a wide variety of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed tasks."
+    },
+    {
+      "_id": "f06f8cc035b04bd1158e4198281915a4",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 127,
+      "title": "Complex Number",
+      "thumbnail_url": "https://i.postimg.cc/rpZ5PZ9T/math1.jpg",
+      "image_url": "https://i.postimg.cc/rpZ5PZ9T/math1.jpg",
+      "details": "In mathematics, a complex number is an element of a number system that extends the real numbers with a specific element denoted i, called the imaginary unit and satisfying the equation 'i2 = −1'; every complex number can be expressed in the form a + bi, where a and b are real numbers. Because no real number satisfies the above equation, i was called an imaginary number by René Descartes. For the complex number a + bi, a is called the real part and b is called the imaginary part. The set of complex numbers is denoted by either of the symbols  C. Despite the historical nomenclature imaginary , complex numbers are regarded in the mathematical sciences as just as real as the real numbers and are fundamental in many aspects of the scientific description of the natural world."
+    },
+
+    
+    {
+      "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "06",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 300,
+      "title": "Cellular Communication Network Technologies",
+        "thumbnail_url": "https://i.postimg.cc/g2xWFnVZ/cell1.jpg",
+      "image_url": "https://i.postimg.cc/g2xWFnVZ/cell1.jpg",
+      "details": "Cellular communication is a form of communication technology that enables the use of mobile phones. A mobile phone is a bidirectional radio that enables simultaneous transmission and reception. Cellular communication is based on the geographic division of the communication coverage area into cells, and within cells.  Each cell is allocated a given number of frequencies (or channels) that allow a large number of subscribers to conduct conversations simultaneously."
+    },
+    {
+      "_id": "7c4dfea0fafddc813673282a428429b7",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 0,
+      "title": "Security of Cloud Computing",
+      
+      "thumbnail_url": "https://i.postimg.cc/zD07N4QW/cc4.jpg",
+      "image_url": "https://i.postimg.cc/zD07N4QW/cc4.jpg",
+      "details": "Cloud security, also known as cloud computing security, consists of a set of policies, controls, procedures and technologies that work together to protect cloud-based systems, data, and infrastructure. These security measures are configured to protect cloud data, support regulatory compliance and protect customers' privacy as well as setting authentication rules for individual users and devices."
+    }, 
+    {
+      "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "06",
+      "rating": { "number": 4.2, "badge": "Excellent" },
+      "total_view": 354,
+      "title": "Universal Mobile Telecommunication Systems (UMTS) technology ",
+      "thumbnail_url": "https://i.postimg.cc/G3NFbfYS/cell2.jpg",
+      "image_url": "https://i.postimg.cc/G3NFbfYS/cell2.jpg",
+      "details": "UTMS technology, based on Wideband Code Division Multiple Access (W-CDMA) technology, is one of the third-generation (3G) technologies of mobile phone telephony. This technology was designed by the Third Generation Partnership Project (3GPP), a collaboration between groups of telecommunications associations to create a globally applicable third-generation mobile phone system, and represents the European-Japanese counterpart to the International Mobile Telecommunications for the year 2000 (IMT-2000) International Telecommunications Union (ITU) specifications for cellular communication systems.  In order to differentiate between UMTS and other communication network technologies, it is sometimes marketed under the label GSM3 – a name that emphasizes its place in the third generation, and the fact that it replaced the GSM in the second generation system."
+    },
+      {
+      "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 100,
+      "title": "“Advanced DBMS",
+      "thumbnail_url": "https://i.postimg.cc/8cPDfsLT/dbms1.jpg",
+      "image_url": "https://i.postimg.cc/8cPDfsLT/dbms1.jpg",
+      "details": "The database is a collection of inter-related data which is used to retrieve, insert and delete the data efficiently. It is also used to organize the data in the form of a table, schema, views, and reports, etc."
+    }
+  ]

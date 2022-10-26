@@ -1,0 +1,34 @@
+[
+    {
+      "id": "01",
+      "name": "Cloud Computing"
+    },
+    {
+      "id": "02",
+      "name": "Big Data Analysis"
+    },
+    {
+      "id": "03",
+      "name": "Neural Network"
+    },
+    {
+      "id": "04",
+      "name": "Advance DBMS"
+    },
+    {
+      "id": "05",
+      "name": "Mathematical Programming"
+    },
+    {
+      "id": "06",
+      "name": "Cellular Mobile Communication"
+    },
+    {
+      "id": "07",
+      "name": "Arts"
+    },
+    {
+      "id": "08",
+      "name": "All News"
+    }
+  ]
