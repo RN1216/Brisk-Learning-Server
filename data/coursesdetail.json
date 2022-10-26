@@ -175,7 +175,7 @@
       "category_id": "04",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 100,
-      "title": "“Advanced DBMS",
+      "title": "Advanced DBMS",
       "thumbnail_url": "https://i.postimg.cc/8cPDfsLT/dbms1.jpg",
       "image_url": "https://i.postimg.cc/8cPDfsLT/dbms1.jpg",
       "details": "The database is a collection of inter-related data which is used to retrieve, insert and delete the data efficiently. It is also used to organize the data in the form of a table, schema, views, and reports, etc."
