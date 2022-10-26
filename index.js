@@ -18,15 +18,13 @@ app.get('/brisk-courses',(req,res)=>{
 
 app.get ('/category/:id',(req,res) =>{
     const id = req.params.id;
-if(id === '07'){
-    res.send(coursesdetail);
-}
-else{
     const category_coursesdetail = coursesdetail.filter(courseDetail => courseDetail.category_id === id);
     res.send(category_coursesdetail);
-}
 });
 
+app.get('/coursesdetail',(req,res)=>{
+    res.send(coursesdetail)
+});
 
 app.get ('/coursesdetail/:id', (req , res)=>{
     const id =  req.params.id;
